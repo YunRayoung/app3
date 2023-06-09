@@ -16,6 +16,7 @@
 </jsp:include>
 <div class="container">
 	<h1>쇼핑몰 관리자 시스템</h1>
+	<p>회원가입, 로그인, 로그아웃, 상품 조회, 구매 기능을 제공합니다.</p>
 </div>
 </body>
 </html>
